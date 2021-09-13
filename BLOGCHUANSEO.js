@@ -8,13 +8,13 @@
 			<strong><span><title><data:blog.pageTitle/></title></span></strong>
         <b:else/>
 			<strong><span><title><data:blog.pageName/></title></span></strong>
-        </b:if>F
+        </b:if>
 		<b:if cond='data:blog.metaDescription != &quot;&quot;'>
 		  <meta expr:content='data:blog.metaDescription' name='description'/>
 		<b:else/>
-		  <meta expr:content='data:blog.pageName + &quot; | Thông tin dự án Pi City. Hotline PKD dự án Pi City 0947000039. &quot;' name='description'/>
+		  <meta expr:content='data:blog.pageName + &quot; | ECOE Group Blog. Hotline PKD: 0947000039. &quot;' name='description'/>
 		</b:if>
-		<meta content='BDS Pi City' name='author'/>
+		<meta content='BDS ECOE Group' name='author'/>
 		<b:include data='blog' name='all-head-content'/>
 		<link href='http://faceseo.vn/favicon.ico' rel='shortcut icon' type='image/vnd.microsoft.icon'/>
 		<meta content='general' name='rating'/>
@@ -208,12 +208,8 @@
 <li><a href='https://ecoehomes.com/picity-high-park/'>Căn hộ Picity High Park</a></li>
 <li><a href='https://ecoehomes.com/opal-city-view/'>Căn hộ Opal City View</a>
 <ul class='sub-menu'>
-<li><a href='#'>Mặt bằng Pi City</a></li>
-<li><a href='#'>Tiện ích Pi City</a></li>
-<li><a href='#'>Chủ đầu tư Pi City</a></li>
-<li><a href='#'>Pháp lý Pi City</a></li>
-<li><a href='#'>Thiết kế Pi City</a></li>
-<li><a href='#'>PT Thanh toán Pi City</a></li>
+<li><a href='#'>Mặt bằng ...</a></li>
+<li><a href='#'>Tiện ích ...</a></li>
 </ul>
 </li>
 <li><a href='https://ecoehomes.com/lien-he/'>Liên hệ</a></li>
@@ -1565,9 +1561,11 @@ $(&#39;.duanid&#39;).val(window.location);
 </div> 
   <div class='footer-credits'>
     <div class='ct-wrapper'>
-<p>&#169; 2019 <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>
+<p>&#169; 2019 All Rights <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>
 <br/>
+  <!--
  All Rights trung tâm <a href='https://centralland.com.vn/trung-tam-dao-tao-seo-bds-uy-tin-tai-tphcm/' id='ident' rel='noffolow'>đào tạo SEO</a> Faceseo.
+  -->
 </p>
 
     </div><!-- /ct-wrapper -->
@@ -1577,13 +1575,9 @@ $(&#39;.duanid&#39;).val(window.location);
 
 <script src='//code.jquery.com/jquery-1.9.1.js' type='text/javascript'/>
 <script src='https://raw.githack.com/daothanh1708/cssjs/main/redirectcopy.js' type='text/javascript'/>
-  
-  <!--
 <script src='https://raw.githack.com/linhfaceseo/mysystemseo/master/popupan.js'/>
--->
-
-  <link href='https://raw.githack.com/mrtodesigner/hvbw/master/formfaceseo-2020.css' rel='stylesheet' type='text/css'/>
-  <script src='https://raw.githack.com/daothanh1708/cssjs/main/formfaceseo-2020.js' type='text/javascript'/>
+<link href='https://raw.githack.com/mrtodesigner/hvbw/master/formfaceseo-2020.css' rel='stylesheet' type='text/css'/>
+<script src='https://raw.githack.com/daothanh1708/cssjs/main/formfaceseo-2020.js' type='text/javascript'/>
 
 <script>
 jQuery( document ).ready( function( $ ) {
@@ -1599,3 +1593,5 @@ jQuery( document ).ready( function( $ ) {
 
 } );
 </script>
+</body>
+</html>
