@@ -58,23 +58,32 @@
 
 </style>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-F7DM2GRDMG'/>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
 
+  gtag(&#39;config&#39;, &#39;G-F7DM2GRDMG&#39;);
+</script>
+    
 </head>
 <!--<body>-->
 <body>
 
 
 <div style='position: absolute;top:-999px'>
-<h1><data:blog.pageName/> Dự án đất nền Pi City</h1>
+<h1><data:blog.pageName/> Bất động sản ECOE Homes</h1>
 </div>
 <div id='header-layout-2'>
 <div class='ct-wrapper'>
 <div class=' ' id='menu-2'>
 <nav>
 <ul class='menu-2'>
-<li><a href='#' rel='nofollow'>Trang chủ</a></li>
-<li><a href='#' rel='nofollow'>Giá bán Pi City</a></li>
-<li><a href='#' rel='nofollow'>Tiến độ Pi City</a></li>
+<li><a href='https://ecoehomes.com/du-an/' rel='nofollow'>Dự án hot</a></li>
+<li><a href='https://ecoehomes.com/thi-truong-bat-dong-san/' rel='nofollow'>Thị trường bất động sản</a></li>
+<li><a href='https://ecoehomes.com/kien-thuc-hay/' rel='nofollow'>Kiến thức hay</a></li>
 </ul>
 </nav>
 </div>           				 
@@ -156,7 +165,7 @@
    <a expr:href='data:blog.homepageUrl' style='display: block'>
    <!-- @logo -->
    
-<img alt='Bất động sản Pi City mua giá gốc chủ đầu tư' id='Header1_headerimg' src='https://ecoe-picityhighpark.com/wp-content/uploads/2020/10/logo-1566887340.png' style='display: block'/>
+<img alt='Bất động sản Pi City mua giá gốc chủ đầu tư' id='Header1_headerimg' src='https://ecoehomes.com/wp-content/uploads/2020/11/ecohomes-logo.png' style='display: block; height:100px!important'/>
 </a> 
       </div>
 </div>
@@ -174,7 +183,7 @@
                   </b:widget>
                 </b:section>
 	<!-- @banner -->			
-<div class='col-md-9 col-sm-8 col-xs-12 noright'><a href='https://www.facebook.com/ecoehomesgroup/'><img align='right' height='150px' src='https://1.bp.blogspot.com/-sfWE96G9yBU/X6QKDUrh28I/AAAAAAAAECo/0EsLulU1oT0ccOUXbHtlhvAWKviUdDYYgCLcBGAsYHQ/s16000/z2162310478885_304b538e26b4fbc4a033a759d6100b18.jpg' style='margin-bottom:5px'/></a></div>       
+<div class='col-md-9 col-sm-8 col-xs-12 noright'><a href='https://www.facebook.com/ecoehomesgroup/'><img align='right' height='150px' src='https://design.ecoehomes.com/wp-content/uploads/2021/08/banner.jpg' style='margin-bottom:5px'/></a></div>       
 </div><!-- /header-inner-wrap -->
  
 </div>
@@ -194,10 +203,10 @@
 
 <ul class='menu'>
 <li class='active'><a href='/'><i class='fas fa-home'/></a></li>
-<li><a href='https://www.hungthinhcorp.com.vn/'>Pi City</a></li>
-<li><a href='#'>Bảng giá Pi City</a></li>
-<li><a href='#'>Dự án Pi City</a></li>
-<li><a href='#'>Thông tin dự án</a>
+<li><a href='https://ecoehomes.com/'>TRANG CHỦ</a></li>
+<li><a href='https://ecoehomes.com/long-phat-residence/'>Đất nền Long Phát Residence</a></li>
+<li><a href='https://ecoehomes.com/picity-high-park/'>Căn hộ Picity High Park</a></li>
+<li><a href='https://ecoehomes.com/opal-city-view/'>Căn hộ Opal City View</a>
 <ul class='sub-menu'>
 <li><a href='#'>Mặt bằng Pi City</a></li>
 <li><a href='#'>Tiện ích Pi City</a></li>
@@ -207,7 +216,7 @@
 <li><a href='#'>PT Thanh toán Pi City</a></li>
 </ul>
 </li>
-<li><a href='#'>Liên hệ</a></li>
+<li><a href='https://ecoehomes.com/lien-he/'>Liên hệ</a></li>
 
 </ul>
 </nav>
@@ -246,6 +255,7 @@
                           <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
                           <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
                           <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                          <b:widget-setting name='reactionsLabel'/>
                           <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
                           <b:widget-setting name='style.layout'>1x1</b:widget-setting>
                           <b:widget-setting name='showLabels'>true</b:widget-setting>
@@ -1105,28 +1115,28 @@ relatedPostsWidget();
 						</script> 
     
     <!--@form-->
-    <iframe id='hidden_iframe2' name='hidden_iframe2' onload='if(submitted2){window.location=&apos;https://www.facebook.com/daothanh1708&apos;;}' style='display: none;'/>
-    <form action='https://docs.google.com/forms/u/0/d/e/1FAIpQLSdMgVWjcGzM_vkSVU1O3rsFAsGuox3tjlwx0T0CoETynlaJcA/formResponse' id='ss-form' method='POST' onsubmit='submitted2=true;' target='hidden_iframe2'>
+    <iframe id='hidden_iframe2' name='hidden_iframe2' onload='if(submitted2){window.location=&apos;https://ecoehomes.com&apos;;}' style='display: none;'/>
+    <form action='https://docs.google.com/forms/u/0/d/e/1FAIpQLSfNQxh68uJLdGTBjyjjm7TLKRCGR1c4kuWpYbwd4fPpPGsP1A/formResponse' id='ss-form' method='POST' onsubmit='submitted2=true;' target='hidden_iframe2'>
       <ol class='ss-question-list' role='list' style='padding-left: 0;'>
         <div class='col-md-12 col-sm-12 col-xs-12 noleft' role='listitem'>
           <div class='ss-form-entry'>
             
-            <input aria-label='Họ tên' class='form-control ss-q-short' name='entry.529613474' placeholder='Nhập tên khách hàng' type='text' value=''/>
+            <input aria-label='Họ tên' class='form-control ss-q-short' name='entry.40355896' placeholder='Nhập tên khách hàng' type='text' value=''/>
           </div>
         </div>
         <div class='col-md-12 col-sm-12 col-xs-12 noright'>
           <div class='ss-form-entry'>
             
-            <input aria-label='Số điện thoại' class='form-control ss-q-short' name='entry.2029094034' placeholder='Nhập số điện thoại' type='text' value=''/>
+            <input aria-label='Số điện thoại' class='form-control ss-q-short' name='entry.1060407751' placeholder='Nhập số điện thoại' type='text' value=''/>
           </div>
         </div>
         <div class='col-md-12 col-sm-12 col-xs-12 nopadding' role='listitem'>
           <div class='ss-form-entry'>
            
-            <input aria-label='Email' class='form-control ss-q-short' name='entry.363005758' placeholder='Nhập Email' type='text' value=''/>
+            <input aria-label='Email' class='form-control ss-q-short' name='entry.1278399052' placeholder='Nhập Email' type='text' value=''/>
           </div>
         </div>
-        <input aria-label='Dự án' class='ss-q-short duanid2' name='entry.1403571785' type='hidden' value=''/>
+        <input aria-label='Dự án' class='ss-q-short duanid2' name='entry.119563792' type='hidden' value=''/>
         <script>
          $(&#39;.duanid2&#39;).val(window.location);
        </script>
@@ -1178,7 +1188,7 @@ relatedPostsWidget();
     <h2><data:title/></h2>
   </b:if>
 
-<iframe frameborder='0' height='220' src='https://www.youtube.com/embed/NMJm2pZCfxI' width='100%'/>
+<iframe frameborder='0' height='220' src='https://www.youtube.com/embed/SJMZHHIgoLE' width='100%'/>
 
 
 </b:includable>
@@ -1370,7 +1380,7 @@ relatedPostsWidget();
       gapi.load(&quot;gapi.iframes:gapi.iframes.style.bubble&quot;, function() {
         if (gapi.iframes &amp;&amp; gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d3369041706079890432\x26blogName\x3dECOE+Group\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://ecoegroup.blogspot.com/search\x26blogLocale\x3dvi\x26v\x3d2\x26homepageUrl\x3dhttp://ecoegroup.blogspot.com/\x26vt\x3d6994719033585834728&#39;,
+              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d3369041706079890432\x26blogName\x3dECOE+Group\x26publishMode\x3dPUBLISH_MODE_HOSTED\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://www.ecoehomes.xyz/search\x26blogLocale\x3dvi\x26v\x3d2\x26homepageUrl\x3dhttp://www.ecoehomes.xyz/\x26vt\x3d-3686109572575343776&#39;,
               where: document.getElementById(&quot;navbar-iframe-container&quot;),
               id: &quot;navbar-iframe&quot;
           });
@@ -1469,31 +1479,31 @@ head.appendChild(script);
 						</script> 
     
     <!--@form-->
-    <iframe id='hidden_iframe' name='hidden_iframe' onload='if(submitted){window.location=&apos;https://www.facebook.com/daothanh1708&apos;;}' style='display: none;'/>
-    <form action='https://docs.google.com/forms/u/0/d/e/1FAIpQLSdMgVWjcGzM_vkSVU1O3rsFAsGuox3tjlwx0T0CoETynlaJcA/formResponse' id='ss-form' method='POST' onsubmit='submitted=true;' target='hidden_iframe'>
+    <iframe id='hidden_iframe' name='hidden_iframe' onload='if(submitted){window.location=&apos;https://ecoehomes.com&apos;;}' style='display: none;'/>
+    <form action='https://docs.google.com/forms/u/0/d/e/1FAIpQLSfNQxh68uJLdGTBjyjjm7TLKRCGR1c4kuWpYbwd4fPpPGsP1A/formResponse' id='ss-form' method='POST' onsubmit='submitted=true;' target='hidden_iframe'>
       <ol class='ss-question-list' role='list' style='padding-left: 0;'>
         <div class='col-md-12 col-sm-12 col-xs-12 noleft' role='listitem'>
           <div class='ss-item ss-item-required ss-text'>
             <div class='ss-form-entry'>
-              <input aria-label='Họ tên' aria-required='true' class='form-control ss-q-short' name='entry.529613474' placeholder='Nhập tên khách hàng' required='' type='text' value=''/>
+              <input aria-label='Họ tên' aria-required='true' class='form-control ss-q-short' name='entry.40355896' placeholder='Nhập tên khách hàng' required='' type='text' value=''/>
             </div>
           </div>
         </div>
         <div class='col-md-12 col-sm-12 col-xs-12 noright' role='listitem'>
           <div class='ss-item ss-item-required ss-text'>
             <div class='ss-form-entry'>
-              <input aria-label='Số điện thoại' aria-required='true' class='form-control ss-q-short' name='entry.2029094034' placeholder='Nhập số điện thoại' required='' type='text' value=''/>
+              <input aria-label='Số điện thoại' aria-required='true' class='form-control ss-q-short' name='entry.1060407751' placeholder='Nhập số điện thoại' required='' type='text' value=''/>
             </div>
           </div>
         </div>
         <div class='col-md-12 col-sm-12 col-xs-12 nopadding' role='listitem'>
           <div class='ss-item  ss-text'>
             <div class='ss-form-entry'>
-              <input aria-label='Email' class='form-control ss-q-short' name='entry.363005758' placeholder='Nhập email' type='text' value=''/>
+              <input aria-label='Email' class='form-control ss-q-short' name='entry.1278399052' placeholder='Nhập email' type='text' value=''/>
             </div>
           </div>
         </div>
-        <input aria-label='Dự án' class='ss-q-short duanid' name='entry.1403571785' type='hidden' value=''/>
+        <input aria-label='Dự án' class='ss-q-short duanid' name='entry.119563792' type='hidden' value=''/>
         <script>
 $(&#39;.duanid&#39;).val(window.location);
 </script>
@@ -1545,7 +1555,7 @@ $(&#39;.duanid&#39;).val(window.location);
   <!-- only display title if it's non-empty -->
   
   <div class='widget-content'>
-    <iframe allowfullscreen='' aria-hidden='false' frameborder='0' height='450' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.4961917152527!2d106.66107361480879!3d10.86535779226122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752994d92c3ca5%3A0x6d70f74dcc0730d5!2zQ8SDbiBo4buZIFBpIENpdHkgVGjhuqFuaCBYdcOibiBRdeG6rW4gMTI!5e1!3m2!1svi!2s!4v1604412633701!5m2!1svi!2s' style='border:0;' tabindex='0' width='100%'/>
+    <iframe allowfullscreen='' aria-hidden='false' frameborder='0' height='450' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.9494010798417!2d106.6733303147662!3d10.815184261434563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752546df14c4a1%3A0x47a9660a9d117779!2sECOE%20Homes!5e0!3m2!1svi!2s!4v1629031742042!5m2!1svi!2s' style='border:0;' tabindex='0' width='100%'/>
   </div>
 
   <b:include name='quickedit'/>
@@ -1589,8 +1599,3 @@ jQuery( document ).ready( function( $ ) {
 
 } );
 </script>
-
-<script src='https://3lichat.us/onlinechat.php?key=6b42b8931db0081ef5b7a278c06e6a3f'/>
-  
-</body>
-</html>
