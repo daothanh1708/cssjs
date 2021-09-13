@@ -81,9 +81,9 @@
 <div class=' ' id='menu-2'>
 <nav>
 <ul class='menu-2'>
-<li><a href='https://ecoehomes.com/du-an/' rel='nofollow'>Dự án hot</a></li>
-<li><a href='https://ecoehomes.com/thi-truong-bat-dong-san/' rel='nofollow'>Thị trường bất động sản</a></li>
-<li><a href='https://ecoehomes.com/kien-thuc-hay/' rel='nofollow'>Kiến thức hay</a></li>
+<li><a href='https://vnexpress.net/'>Báo VN Express</a></li>
+<li><a href='https://cafef.vn/'>Báo CafeF</a></li>
+<li><a href='https://thanhnien.vn/'>Báo Thanh Niên</a></li>
 </ul>
 </nav>
 </div>           				 
@@ -101,7 +101,7 @@
         <div class='ct-wrapper'>
         <div class='header-inner-wrap'>
                 <b:section class='header col-md-3 col-sm-4 col-xs-12' id='header' maxwidgets='1' showaddelement='yes'>
-                  <b:widget id='Header1' locked='true' title='ECOE Group (Tiêu đề)' type='Header' version='1'>
+                  <b:widget id='Header1' locked='true' title='Đào Trung Thành (Tiêu đề)' type='Header' version='1'>
                     <b:widget-settings>
                       <b:widget-setting name='displayUrl'/>
                       <b:widget-setting name='displayHeight'>0</b:widget-setting>
@@ -165,7 +165,7 @@
    <a expr:href='data:blog.homepageUrl' style='display: block'>
    <!-- @logo -->
    
-<img alt='Bất động sản Pi City mua giá gốc chủ đầu tư' id='Header1_headerimg' src='https://ecoehomes.com/wp-content/uploads/2020/11/ecohomes-logo.png' style='display: block; height:100px!important'/>
+<img alt='Bất động sản Pi City mua giá gốc chủ đầu tư' id='Header1_headerimg' src='https://ecoehomes.com/wp-content/uploads/2021/08/AVATAR.jpg' style='display: block; height:100px!important'/>
 </a> 
       </div>
 </div>
@@ -183,7 +183,7 @@
                   </b:widget>
                 </b:section>
 	<!-- @banner -->			
-<div class='col-md-9 col-sm-8 col-xs-12 noright'><a href='https://www.facebook.com/ecoehomesgroup/'><img align='right' height='150px' src='https://design.ecoehomes.com/wp-content/uploads/2021/08/banner.jpg' style='margin-bottom:5px'/></a></div>       
+<div class='col-md-9 col-sm-8 col-xs-12 noright'><a href='https://www.facebook.com/ecoehomesgroup/'><img align='right' height='150px' src='https://ecoehomes.com/wp-content/uploads/2021/09/ecoehomes-designs-17-e1631537364526.jpg' style='margin-bottom:5px'/></a></div>       
 </div><!-- /header-inner-wrap -->
  
 </div>
@@ -1376,7 +1376,7 @@ relatedPostsWidget();
       gapi.load(&quot;gapi.iframes:gapi.iframes.style.bubble&quot;, function() {
         if (gapi.iframes &amp;&amp; gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d3369041706079890432\x26blogName\x3dECOE+Group\x26publishMode\x3dPUBLISH_MODE_HOSTED\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://www.ecoehomes.xyz/search\x26blogLocale\x3dvi\x26v\x3d2\x26homepageUrl\x3dhttp://www.ecoehomes.xyz/\x26vt\x3d-3686109572575343776&#39;,
+              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d5550270141415189071\x26blogName\x3d%C4%90%C3%A0o+Trung+Th%C3%A0nh\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://daotrungthanh.blogspot.com/search\x26blogLocale\x3dvi\x26v\x3d2\x26homepageUrl\x3dhttp://daotrungthanh.blogspot.com/\x26vt\x3d-4837966863693120140&#39;,
               where: document.getElementById(&quot;navbar-iframe-container&quot;),
               id: &quot;navbar-iframe&quot;
           });
