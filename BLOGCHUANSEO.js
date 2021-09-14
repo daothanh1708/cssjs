@@ -206,12 +206,21 @@
 <ul class='menu'>
 <li class='active'><a href='/'><i class='fas fa-home'/></a></li>
 <li><a href='https://ecoehomes.com/'>ECOE HOMES</a></li>
-<li><a href='https://ecoehomes.com/long-phat-residence/'>Đất nền Long Phát Residence Long Thành</a></li>
-<li><a href='https://ecoehomes.com/picity-high-park/'>Căn hộ Picity High Park Quận 12</a></li>
-<li><a href='https://ecoehomes.com/opal-city-view/'>Căn hộ Opal City View Đất Xanh Bình Dương</a>
-<ul class='sub-menu'>
-<li><a href='#'>Mặt bằng ...</a></li>
-<li><a href='#'>Tiện ích ...</a></li>
+<li><a href='https://ecoehomes.com/long-phat-residence/'>Long Phát Residence Long Thành</a>
+   <ul class='sub-menu'>
+<li><a href='https://ecoehomes.com/gia-ban-va-phuong-thuc-thanh-toan-long-phat-residence/'>Giá bán Long Phát Residence</a></li>
+  </ul>
+  </li>
+ 
+<li><a href='https://ecoehomes.com/picity-high-park/'>Picity High Park Quận 12</a>
+  <ul class='sub-menu'>
+<li><a href='https://ecoehomes.com/dieu-dac-biet-gi-o-phuong-thuc-thanh-toan-du-an-picity-high-park-q-12-khien-khach-hang-quan-tam/'>Giá bán Picity High Park</a></li>
+  </ul>
+  </li>
+  
+<li><a href='https://ecoehomes.com/opal-city-view/'>Opal City View Bình Dương</a>
+  <ul class='sub-menu'>
+<li><a href='https://ecoehomes.com/gia-ban-opal-city-view/'>Giá bán Opal City View</a></li>
 </ul>
 </li>
 
