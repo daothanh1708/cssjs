@@ -84,6 +84,8 @@
 <li><a href='https://vnexpress.net/'>Báo VN Express</a></li>
 <li><a href='https://cafef.vn/'>Báo CafeF</a></li>
 <li><a href='https://thanhnien.vn/'>Báo Thanh Niên</a></li>
+<li><a href='https://dantri.com.vn/'>Báo Dân Trí</a></li>
+<li><a href='https://nhandan.vn/'>Báo Nhân Dân</a></li> 
 </ul>
 </nav>
 </div>           				 
@@ -203,16 +205,15 @@
 
 <ul class='menu'>
 <li class='active'><a href='/'><i class='fas fa-home'/></a></li>
-<li><a href='https://ecoehomes.com/'>TRANG CHỦ</a></li>
-<li><a href='https://ecoehomes.com/long-phat-residence/'>Đất nền Long Phát Residence</a></li>
-<li><a href='https://ecoehomes.com/picity-high-park/'>Căn hộ Picity High Park</a></li>
-<li><a href='https://ecoehomes.com/opal-city-view/'>Căn hộ Opal City View</a>
+<li><a href='https://ecoehomes.com/'>ECOE HOMES</a></li>
+<li><a href='https://ecoehomes.com/long-phat-residence/'>Đất nền Long Phát Residence Long Thành</a></li>
+<li><a href='https://ecoehomes.com/picity-high-park/'>Căn hộ Picity High Park Quận 12</a></li>
+<li><a href='https://ecoehomes.com/opal-city-view/'>Căn hộ Opal City View Đất Xanh Bình Dương</a>
 <ul class='sub-menu'>
 <li><a href='#'>Mặt bằng ...</a></li>
 <li><a href='#'>Tiện ích ...</a></li>
 </ul>
 </li>
-<li><a href='https://ecoehomes.com/lien-he/'>Liên hệ</a></li>
 
 </ul>
 </nav>
