@@ -1,4 +1,3 @@
-
 <script type="application/ld+json">{
 	"@context": "http://schema.org",
   	"@type": "RealEstateAgent",
@@ -21,7 +20,20 @@
   	"description": "ECOE Homes - Chuyên trang thông tin Bất Động Sản online tại TP.HCM. Với tôn chỉ xuyên suốt: Tâm - Tầm - Tài - Tiền. ECOE Homes cam kết sẽ nỗ lực không ngừng để mang đến cho Quý khách hàng những thông tin Chính xác, Nhanh chóng và Tốt nhất về thị trường bất động sản TP.HCM và các tỉnh lân cận. Đồng thời cung cấp những thông tin cần thiết như thông tin thị trường, kiến thức pháp lý, các nhận định từ chuyên gia....để có thể luôn là cánh tay phải đắc lực trong hành trình đầu tư bất động sản của Quý khách.",
 	"name": "ECOE Homes",
   	"telephone": "0947-000-039",
-  	"openingHours": "Mo-Su allday",
+  	"openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  } ,
   	"geo": {
     	"@type": "GeoCoordinates",
    	"latitude": "10.8151843",
